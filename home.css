@@ -24,3 +24,21 @@
     flex-wrap: nowrap;
     justify-content: center;
 }
+img{
+    height: 250px;
+}
+.filledText{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 100px;
+   color:white;
+   -webkit-text-stroke: 0.1px rgb(9, 9, 9);  
+    text-shadow: 10px 3px 5px rgba(0, 0, 0, 0.5); 
+    margin-top:0.5%;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    margin-top: -3%;
+}
