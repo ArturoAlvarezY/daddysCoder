@@ -1,6 +1,6 @@
 .flexingPhotos{
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .flexingPhotos img{
@@ -13,7 +13,13 @@
     background-color: #9700FD;
     border-radius:50%;
     width: auto;
-    height: auto;
+    height:auto;
+}
+
+#cardPhoto{
+    height: 25vh;
+    margin-top: 12.5vh;
+    padding: 15vh
 }
 
 .divArturo:hover{
@@ -23,6 +29,7 @@
 
 #arturo{
     transition: filter .4s ease;
+    height: 30vh
 }
 
 #arturo:hover{
@@ -33,6 +40,11 @@
 .divFelipe{
     background-color:gray;
     border-radius:50%;
+}
+
+#felipe{
+     transition: filter .4s ease;
+    height: 30vh;
 }
 
 .divFelipe:hover{
@@ -57,6 +69,11 @@
 
 #antonella:hover{
     opacity: 0.1;
+}
+
+#antonella{
+     transition: filter .4s ease;
+    height: 30vh
 }
 .filledText{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
