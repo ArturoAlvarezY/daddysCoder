@@ -1,0 +1,58 @@
+img{
+    height: 100px;
+    border-radius: 50%;   
+}
+
+.flexingPhotos{
+    display:flex;
+    justify-content: space-between;
+}
+
+.divArturo{
+    background-color: #9700FD;
+    border-radius:50%;
+    width: auto;
+    height: auto;
+}
+
+.divArturo:hover{
+    background-color: #9700FD;
+    opacity: 0,1
+}
+
+#arturo{
+    transition: filter .4s ease;
+}
+
+#arturo:hover{
+    opacity:0.1;
+    background-color: purple;
+}
+
+.divFelipe{
+    background-color:gray;
+    border-radius:50%;
+}
+
+.divFelipe:hover{
+    opacity: 0,1;
+    background-color: gray;
+}
+
+#felipe:hover{
+    opacity: 0.1;
+}
+
+.divAntonella{
+   background-color: black;
+    border-radius:50%;
+}
+
+.divAntonella:hover{
+    background-color: black;
+    
+}
+
+#antonella:hover{
+    opacity: 0.1;
+}
