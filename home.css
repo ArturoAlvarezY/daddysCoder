@@ -4,8 +4,12 @@
     background-color: black;
     color: white;
     border-radius: 10px;
-    height: 100vh
-    
+    height: 90vh;
+    width: 80%;
+}
+.containerForm{
+    display: flex;
+    justify-content: center;
 }
 
 .flexButton{
@@ -59,3 +63,4 @@ h3{
 .flexButton{
     padding: 30px;
 }
+
