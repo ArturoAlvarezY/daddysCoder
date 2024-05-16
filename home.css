@@ -49,3 +49,7 @@ h2{
     display: flex;
     justify-content: center;
 }
+
+.flexButton{
+    padding: 30px;
+}
