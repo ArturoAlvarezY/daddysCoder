@@ -75,6 +75,14 @@
      transition: filter .4s ease;
     height: 30vh
 }
+
+.flexTeamNames{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .filledText{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    font-size: 100px;
