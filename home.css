@@ -44,6 +44,7 @@ h2{
     display: flex;
     justify-content: center;
 }
+<<<<<<< HEAD
 
 .slogan{
     display: flex;
@@ -52,4 +53,12 @@ h2{
 
 .flexButton{
     padding: 30px;
+=======
+h2{
+    margin-top: -3%;
+}
+h3{
+    margin-top: 10%;
+    text-align: center;
+>>>>>>> feature/footer
 }
