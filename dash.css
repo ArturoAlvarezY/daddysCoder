@@ -131,6 +131,7 @@ h3{
     flex-direction: row;
     margin: 0;
     padding: 150px;
+    padding-top:10px;
 }
 .banner {
     width: 100%;
@@ -141,4 +142,15 @@ h3{
     display: flex;
     justify-content: center; 
     align-items: flex-start; 
+}
+
+.teamNameAndWord{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 25px;
+}
+
+.memberName{
+display:flex;
 }
